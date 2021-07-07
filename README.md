@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankit Kumar
-- 👀 I’m interested in Web Developement, Computer Graphics & Competitive Coding
+- 👀 I’m interested in Web Developement, Computer Graphics & Chess
 - 🌱 I’m currently learning Web Developement
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ... ankitkumar892001@gmail.com
